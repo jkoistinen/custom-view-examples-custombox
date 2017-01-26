@@ -8,82 +8,82 @@
     app:separatorColor="#CCC"
     app:numColumns="4">
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#500"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#050"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#005"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#055"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#305"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#035"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#550"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#505"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#350"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#500"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#050"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#005"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#055"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#305"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#035"/>
 
-    <View
+    <com.example.customview.view.AnimateBoxView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#550"/>

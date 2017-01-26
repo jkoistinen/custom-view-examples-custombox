@@ -43,6 +43,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         list.setOnItemClickListener(this);
 
         setContentView(list);
+
     }
 
     @Override
